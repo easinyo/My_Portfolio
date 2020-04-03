@@ -1,4 +1,5 @@
-## FunRide - Android App
+# Android Apps
+## I- FunRide - Android App
 FunRide is a project for the SEG4910/4911 Capstone software engineering project course at the University of Ottawa. This project is under the supervision of Prof. Miguel Garzon and Prof.Stephane Some. FunRide is an 8-month project following the agile methodology where both the front-end and back-end will be built from scratch.
 
 FunRide is a mobile application that will serve as a rideshare platform for traveling between cities in Canada. Ridesharing is a more economical option to travel from Point A to Point B in comparison to trains, busses, or flying. As a result, many people especially students are looking for advertisements in platforms like Kijiji or Craigslist to find these services.

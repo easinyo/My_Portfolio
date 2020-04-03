@@ -10,6 +10,30 @@ We created FunRide as a way for passengers to reserve rideshares without having 
 
 For more information, take a look at the list of sections on our wiki https://github.com/kanouche/CapstoneBackEnd/wiki.
 
+## Features
+* Login as existing user
+* Signup as a new user
+* Password recovery
+* Edit user profile
+* Browse for rides. 
+* Book a ride and secure your spot.
+* Post a trip and get people to book available seats in your trip.
+* See Historics of previous trips.
+* Cancel a ride
+* Cancel a posted trip
+* Get Email notifications.
+* Contact support
+
+## Technologies used
+* Java
+* Kotlin
+* Android Studio
+* CircleCI for integration testing
+* Github  
+* Heroku using PostgreSQL and REST API.
+* Espresso for Testing
+* PlacesDetails API
+
 ### User Interface Screenshots
 ![](images/FunRide_UI_1.JPG)
 ![](images/FunRide_UI_2.JPG)
